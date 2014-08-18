@@ -1,6 +1,6 @@
 {
   "name": "native-dns",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "author": "Timothy J Fontaine <tjfontaine@gmail.com> (http://atxconsulting.com)",
   "description": "Replacement for the core DNS module, includes server implementation",
   "keywords": [
@@ -8,13 +8,9 @@
     "bind",
     "native"
   ],
-  "homepage": "http://github.com/tjfontaine/node-dns",
-  "bugs": {
-    "url": "http://github.com/tjfontaine/node-dns/issues"
-  },
   "repository": {
     "type": "git",
-    "url": "http://github.com/tjfontaine/node-dns.git"
+    "url": "https://github.com/liminex/node-dns.git"
   },
   "main": "dns.js",
   "engines": {
@@ -31,5 +27,6 @@
   "devDependencies": {
     "optimist": "",
     "nodeunit": ">= 0.7.4"
-  }
+  },
+  "private": true
 }
