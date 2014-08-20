@@ -22,7 +22,7 @@
   "dependencies": {
     "ipaddr.js": ">= 0.1.1",
     "native-dns-cache": ">= 0.0.1",
-    "native-dns-packet": ">= 0.0.4"
+    "native-dns-packet": "https://github.com/liminex/native-dns-packet/tarball/master"
   },
   "devDependencies": {
     "optimist": "",
